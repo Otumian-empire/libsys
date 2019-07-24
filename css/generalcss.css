@@ -1,0 +1,38 @@
+/* START: general css - unless specified */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #c5f7d3;
+    color: #000000;
+}
+
+header {
+    margin: 0 auto;
+    padding: 10px;
+    width: 80%;
+}
+
+.small-text {
+    margin-left: 40%;
+    font-size: 0.8em;
+    color: rgb(105, 92, 92);
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+p {
+    margin: auto;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+    padding: 10px;
+    color: #c5f7d3;
+}
+/*END:  general css - unless specified */

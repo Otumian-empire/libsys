@@ -1,0 +1,63 @@
+.float_left{
+    float: left;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 300px;
+}
+
+.profile {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    background-color: white;
+    color: black;
+}
+
+.image_area {
+    width: 90%;
+    /* display: inline; */
+}
+
+.books {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    background-color: white;
+    color: black;
+}
+
+.float_right {
+    float: right;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 300px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.information_area {
+    width: 100%;
+    background-color: white;
+    opacity: 0.9;
+    color: black;
+    float: inline-end;
+    clear: both;
+}
+
+ul {
+    /* list-style-image: url(../img/huhu.jpg); */
+    list-style-type: circle;
+    list-style-position: outside;
+}

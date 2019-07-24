@@ -1,0 +1,37 @@
+html {
+    width: auto;
+    height: auto;
+}
+
+body {
+    width: auto;
+    height: auto;
+    color: white;
+    background-color: green;
+}
+
+.container {
+    width: auto;
+    height: auto;
+    background-color: black;
+}
+
+
+h1-h6 {
+    background-color: white;
+    color: black;
+}
+
+input {
+    background-color: black;
+    color: silver;
+}
+
+input:hover {
+    background-color: green;
+}
+
+/* table {
+    background-color: black;
+    color: white;
+} */
