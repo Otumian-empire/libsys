@@ -30,7 +30,7 @@
 
                 <section class="good-words">
                     <p>
-                        You are a better person reading... Your might is in books...
+                        You are a better person reading... Your might is in books or perhaps, you prefare weight lifting...
                     </p>
                     
                 </section>

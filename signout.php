@@ -4,7 +4,7 @@
     // query the database for updating
     // upon signing out
     // active status should be set to 0
-    // the last
+    // the last seen to be set to current datetime
     $index_number = '';
 
     if (isset($_SESSION['index_number'])) {
